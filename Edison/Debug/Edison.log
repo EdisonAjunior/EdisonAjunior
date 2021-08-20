@@ -1,0 +1,4 @@
+﻿  Edison.cpp
+C:\Users\SENAI.DSN3011158855\Downloads\Edison\Edison\Edison.cpp(29,14): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\SENAI.DSN3011158855\Downloads\Edison\Edison\Edison.cpp(30,9): warning C4477: 'printf': a cadeia de formato '%d' requer um argumento do tipo 'int', mas um argumento variadic 1 tem o tipo 'double'
+  Edison.vcxproj -> C:\Users\SENAI.DSN3011158855\Downloads\Edison\Debug\Edison.exe

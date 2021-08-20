@@ -1,0 +1,16 @@
+C:\Edison\Edison\bin\Debug\netcoreapp3.1\Edison.exe
+C:\Edison\Edison\bin\Debug\netcoreapp3.1\Edison.deps.json
+C:\Edison\Edison\bin\Debug\netcoreapp3.1\Edison.runtimeconfig.json
+C:\Edison\Edison\bin\Debug\netcoreapp3.1\Edison.runtimeconfig.dev.json
+C:\Edison\Edison\bin\Debug\netcoreapp3.1\Edison.dll
+C:\Edison\Edison\bin\Debug\netcoreapp3.1\Edison.pdb
+C:\Edison\Edison\obj\Debug\netcoreapp3.1\Edison.csprojAssemblyReference.cache
+C:\Edison\Edison\obj\Debug\netcoreapp3.1\Edison.Form1.resources
+C:\Edison\Edison\obj\Debug\netcoreapp3.1\Edison.Properties.Resources.resources
+C:\Edison\Edison\obj\Debug\netcoreapp3.1\Edison.csproj.GenerateResource.cache
+C:\Edison\Edison\obj\Debug\netcoreapp3.1\Edison.AssemblyInfoInputs.cache
+C:\Edison\Edison\obj\Debug\netcoreapp3.1\Edison.AssemblyInfo.cs
+C:\Edison\Edison\obj\Debug\netcoreapp3.1\Edison.csproj.CoreCompileInputs.cache
+C:\Edison\Edison\obj\Debug\netcoreapp3.1\Edison.dll
+C:\Edison\Edison\obj\Debug\netcoreapp3.1\Edison.pdb
+C:\Edison\Edison\obj\Debug\netcoreapp3.1\Edison.genruntimeconfig.cache

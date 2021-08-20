@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\SENAI.DSN3011158855\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\SENAI.DSN3011158855\\.nuget\\packages"
+    ]
+  }
+}
